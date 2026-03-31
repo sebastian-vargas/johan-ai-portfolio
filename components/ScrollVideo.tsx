@@ -237,8 +237,8 @@ export default function ScrollVideo() {
         style={{ textShadow: '0 2px 30px rgba(0,0,0,0.8), 0 0 60px rgba(0,0,0,0.5)' }}
       >
         <h1 className="hero-heading text-6xl md:text-[6rem] lg:text-[7rem] leading-none mb-6 text-white tracking-tighter uppercase font-display mix-blend-difference">
-          <span className="block hero-word inline-block origin-bottom">Johan </span>
-          <span className="block hero-word inline-block origin-bottom md:-ml-2">System Engineer</span>
+          <span className="block hero-word origin-bottom">Johan Vargas</span>
+          <span className="block hero-word origin-bottom mt-2 md:mt-4 text-gray-300">System Engineer</span>
         </h1>
         <p className="hero-tagline text-lg md:text-2xl text-gray-300 max-w-xl font-light tracking-wide mix-blend-difference">
           Designing digital experiences that connect, impact and evolve.
